@@ -1,4 +1,4 @@
-# TeamTalk
+﻿# TeamTalk
 	TeamTalk is a solution for enterprise IM
 	
 	具体文档见doc目录下,安装之前请仔细阅读相关文档。
@@ -8,3 +8,6 @@
 		
 		我们的官方维护人员会抽时间解答,谢谢大家的理解.
 		* qq群:341273218
+#关于我们
+        欢迎大家一起来做这个开源项目
+        微信号/QQ 17055395
